@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352667610898",
+    "project_id": "utubemusic-85e2c",
+    "storage_bucket": "utubemusic-85e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352667610898:android:ee054f54214444d5c28dcb",
+        "android_client_info": {
+          "package_name": "com.example.youtube_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR3nbJdggXe7DUdC199Bakuf0d3kQu-i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
